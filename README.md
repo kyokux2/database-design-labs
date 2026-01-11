@@ -1,1 +1,5 @@
-# database-design-labs
+# Лабораторная работа №3
+## Хранимые функции и триггеры (PostgreSQL)
+
+**Предметная область:** Fitness Tracker  
+**СУБД:** PostgreSQL  
